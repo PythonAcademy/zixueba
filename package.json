@@ -1,0 +1,28 @@
+{
+  "name": "zixueba",
+  "version": "1.0.0",
+  "description": "python academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "text"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PythonAcademy/zixueba.git"
+  },
+  "keywords": [
+    "python",
+    "Python",
+    "academy",
+    "Academy",
+    "自学吧",
+    "Python教学",
+    "Python教学视频"
+  ],
+  "author": "Roddy JasonYang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PythonAcademy/zixueba/issues"
+  },
+  "homepage": "https://github.com/PythonAcademy/zixueba#readme"
+}
